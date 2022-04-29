@@ -1,5 +1,2 @@
 tutorial:gf:0
-flaws and sins:dad:1
-legends:dad:1
-empty:dad1
-allgirlsarethesame:dad:1
+winter-horrorland:gf:1
